@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3825166179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1419dd875b000c3f6ee8bcc78268ce9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c1e2993f3bf1db1bdc3fd092db19d35
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Interactive360/Photos/assembly.mat
+Dependencies: []

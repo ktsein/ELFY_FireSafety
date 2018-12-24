@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3887256
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: skyboxes
+      Dependencies: {}
+    Info_1:
+      Name: materials
+      Dependencies: {}
